@@ -1,0 +1,5 @@
+ls: l’opció «y» no és vàlida
+Proveu «ls --help» per a obtenir més informació.
+hola
+mes errors
+no mames

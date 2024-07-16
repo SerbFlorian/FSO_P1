@@ -1,0 +1,7 @@
+ls: l’opció «y» no és vàlida
+Proveu «ls --help» per a obtenir més informació.
+prova
+no xingues
+menos errors
+mamaguebo
+ratero
